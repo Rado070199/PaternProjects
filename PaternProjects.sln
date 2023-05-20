@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StawSims", "StawSims\StawSims\StawSims.csproj", "{327710D4-C28C-4903-BB33-104142ACB8CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherStation", "WeatherStation\WeatherStation.csproj", "{58C0299B-D2E1-432D-8610-94DD2A18650F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{327710D4-C28C-4903-BB33-104142ACB8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{327710D4-C28C-4903-BB33-104142ACB8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{327710D4-C28C-4903-BB33-104142ACB8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C0299B-D2E1-432D-8610-94DD2A18650F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C0299B-D2E1-432D-8610-94DD2A18650F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C0299B-D2E1-432D-8610-94DD2A18650F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C0299B-D2E1-432D-8610-94DD2A18650F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F40E1D-3BFE-4050-9968-0938A19E7A9C}
 	EndGlobalSection
 EndGlobal
